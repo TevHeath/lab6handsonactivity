@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/tevinheath/Desktop/Desktop Clean up/Science Courses/Guelph /1st Year - Computer Engineering/Fall /Eng 1410 - Introductory Programming for Engineers/Labs/Lab6/lab6handsonactivity",
+      "program": "/Users/tevinheath/Desktop/Desktop Clean up/Science Courses/Guelph /1st Year - Computer Engineering/Fall /Eng 1410 - Introductory Programming for Engineers/Labs/Lab6/lab6handsonactivity/build/Debug/outDebug"
+    }
+  ]
+}
